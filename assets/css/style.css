@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+  }
+  
+  #myCanvas {
+    color: black;
+    background-color: black;
+  }
